@@ -1,0 +1,13 @@
+C:\Users\necef\OneDrive\İş masası\Task015\Task015\bin\Debug\netcoreapp3.1\Task015.exe
+C:\Users\necef\OneDrive\İş masası\Task015\Task015\bin\Debug\netcoreapp3.1\Task015.deps.json
+C:\Users\necef\OneDrive\İş masası\Task015\Task015\bin\Debug\netcoreapp3.1\Task015.runtimeconfig.json
+C:\Users\necef\OneDrive\İş masası\Task015\Task015\bin\Debug\netcoreapp3.1\Task015.runtimeconfig.dev.json
+C:\Users\necef\OneDrive\İş masası\Task015\Task015\bin\Debug\netcoreapp3.1\Task015.dll
+C:\Users\necef\OneDrive\İş masası\Task015\Task015\bin\Debug\netcoreapp3.1\Task015.pdb
+C:\Users\necef\OneDrive\İş masası\Task015\Task015\obj\Debug\netcoreapp3.1\Task015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\necef\OneDrive\İş masası\Task015\Task015\obj\Debug\netcoreapp3.1\Task015.AssemblyInfoInputs.cache
+C:\Users\necef\OneDrive\İş masası\Task015\Task015\obj\Debug\netcoreapp3.1\Task015.AssemblyInfo.cs
+C:\Users\necef\OneDrive\İş masası\Task015\Task015\obj\Debug\netcoreapp3.1\Task015.csproj.CoreCompileInputs.cache
+C:\Users\necef\OneDrive\İş masası\Task015\Task015\obj\Debug\netcoreapp3.1\Task015.dll
+C:\Users\necef\OneDrive\İş masası\Task015\Task015\obj\Debug\netcoreapp3.1\Task015.pdb
+C:\Users\necef\OneDrive\İş masası\Task015\Task015\obj\Debug\netcoreapp3.1\Task015.genruntimeconfig.cache
